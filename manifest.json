@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "FloatingPoint",
+  "name": "FloatingPoint",
+  "author": "Raz0rBeam",
+  "version": "0.0.1",
+  "description": "A Mod to utilize the Floating Point Precision effect.",
+  "gameVersion": "1.19.0",
+    "dependsOn": {
+        "SiraUtil":  "^3.0.0",
+        "BSIPA": "^4.2.0"
+    },
+  "features": []
+}
